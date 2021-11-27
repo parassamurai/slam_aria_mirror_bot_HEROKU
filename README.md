@@ -2,6 +2,13 @@
 
 owner of this repo :- [AYUSH](https://github.com/ayushteke)
 
+
+# all the commits are made from [slam-mirrorbot](https://github.com/SlamDevs/slam-mirrorbot)
+
+## all the credit goes to [slamDevs](https://github.com/SlamDevs)
+
+
+
 contact me :- [AYUSH](https://t.me/request_ayush)
 
 # Slam Mirror Bot
@@ -10,15 +17,18 @@ This is a telegram bot writen in python for mirroring files on the internet to o
 ## Deploying on Heroku
 Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks
 
-to know how to get them click on the  #[ link ](https://github.com/spe4641/test-new#getting-google-oauth-api-credential-file)
 
 after this click on the below button 👇👇👇👇
-<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://github.com/ayushteke/Torrent_2_Gdrive_mirrorbot/blob/master/heroku-guide.md"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p> 
 
 
 ## Features supported:
 
 - Mirroring direct download links to Google Drive
+- qBittorrent supported
+- selection of files before downloading torrent
+- Limiting size Torrent/Direct, Tar/Unzip, Mega, cloning Google Drive support
+- Stop duplicate cloning Google Drive & mirroring Mega support
 - Create Tar Google Drive folder
 - Mirroring Mega.nz links to Google Drive (In development stage)
 - Mirroring Uptobox.com links to Google Drive (Uptobox account must be premium)
@@ -35,7 +45,6 @@ after this click on the below button 👇👇👇👇
 - Limiting size Torrent/Direct, Mega, cloning Google Drive support
 - Mirror telegram files
 - Delete files from drive
-- Add stickers to your pack
 - Check Heroku dynos stats
 - Nyaa.si and Sukebei Torrent search
 - Shell and Executor
